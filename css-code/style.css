@@ -1,0 +1,14 @@
+body {
+    background-color: lightcyan;
+}
+
+img {
+    height: 150px;
+}
+
+hr {
+    height: 2px;
+    width: 10%;
+    background-color: gray;
+    border-style: none;
+}
